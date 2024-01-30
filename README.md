@@ -13,7 +13,7 @@ The GitHub Actions for [Jira](https://www.atlassian.com/software/jira) to create
 
 ## Actions
 
-- [`Login`](https://github.com/NTTSH-Engineering/jira-login) - Log in to the Jira API
+- [`Login`](https://github.com/NTTSH-Engineering/gajira-login) - Log in to the Jira API
 - [`CLI`](https://github.com/NTTSH-Engineering/setup-jira) - Wrapped [go-jira](https://github.com/Netflix-Skunkworks/go-jira) CLI for common Jira actions
 - [`Find issue key`](https://github.com/NTTSH-Engineering/jira-find-issue-key) - Search for an issue key in commit message, branch name, etc. This issue key is then saved and used by the next actions in the same workflow
 - [`Create`](https://github.com/NTTSH-Engineering/jira-create-issue) - Create a new Jira issue
