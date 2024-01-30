@@ -1,5 +1,5 @@
 ---------
-⚠️ This repository isn’t maintained anymore.
+This repository was forked from the Atlassian repositiry, and upgraded to Node20
 ---------
 
 # GitHub Actions for Jira
@@ -16,9 +16,9 @@ The GitHub Actions for [Jira](https://www.atlassian.com/software/jira) to create
 - [`Login`](https://github.com/NTTSH-Engineering/gajira-login) - Log in to the Jira API
 - [`CLI`](https://github.com/NTTSH-Engineering/setup-jira) - Wrapped [go-jira](https://github.com/Netflix-Skunkworks/go-jira) CLI for common Jira actions
 - [`Find issue key`](https://github.com/NTTSH-Engineering/gajira-find-issue-key) - Search for an issue key in commit message, branch name, etc. This issue key is then saved and used by the next actions in the same workflow
-- [`Create`](https://github.com/NTTSH-Engineering/gajira-create-issue) - Create a new Jira issue
-- [`Transition`](https://github.com/NTTSH-Engineering/gajira-issue-transition) - Transition a Jira issue
-- [`Comment`](https://github.com/NTTSH-Engineering/gajira-add-comment) - Add a comment to a Jira issue
+- [`Create`](https://github.com/NTTSH-Engineering/gajira-create) - Create a new Jira issue
+- [`Transition`](https://github.com/NTTSH-Engineering/gajira-transition) - Transition a Jira issue
+- [`Comment`](https://github.com/NTTSH-Engineering/gajira-comment) - Add a comment to a Jira issue
 - [`TODO`](https://github.com/NTTSH-Engineering/gajira-issue-from-todo) - Create a Jira issue for each TODO comment in committed code
 
 ## Usage
