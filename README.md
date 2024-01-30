@@ -1,6 +1,4 @@
----------
-This repository was forked from the Atlassian repositiry, and upgraded to Node20
----------
+
 
 # GitHub Actions for Jira
 
@@ -20,6 +18,10 @@ The GitHub Actions for [Jira](https://www.atlassian.com/software/jira) to create
 - [`Transition`](https://github.com/NTTSH-Engineering/gajira-transition) - Transition a Jira issue
 - [`Comment`](https://github.com/NTTSH-Engineering/gajira-comment) - Add a comment to a Jira issue
 - [`TODO`](https://github.com/NTTSH-Engineering/gajira-issue-from-todo) - Create a Jira issue for each TODO comment in committed code
+
+## Credit
+This repository was forked from the Atlassian repositiry, and upgraded to Node20
+
 
 ## Usage
 An example workflow to transition issue on `push`:
