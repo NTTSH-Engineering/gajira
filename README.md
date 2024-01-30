@@ -20,7 +20,7 @@ The GitHub Actions for [Jira](https://www.atlassian.com/software/jira) to create
 - [`TODO`](https://github.com/NTTSH-Engineering/gajira-issue-from-todo) - Create a Jira issue for each TODO comment in committed code
 
 ## Credit
-This repository was forked from the Atlassian repositiry, and upgraded to Node20
+This repository was forked from the Atlassian repository, and upgraded to Node20
 
 
 ## Usage
